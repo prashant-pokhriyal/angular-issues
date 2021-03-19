@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/angular-issues/static/css/main.bab0b925.chunk.css",
+    "main.js": "/angular-issues/static/js/main.cab83cf2.chunk.js",
+    "main.js.map": "/angular-issues/static/js/main.cab83cf2.chunk.js.map",
+    "runtime-main.js": "/angular-issues/static/js/runtime-main.5113525e.js",
+    "runtime-main.js.map": "/angular-issues/static/js/runtime-main.5113525e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/angular-issues/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.bfa681a8.chunk.js": "/angular-issues/static/js/2.bfa681a8.chunk.js",
+    "static/js/2.bfa681a8.chunk.js.map": "/angular-issues/static/js/2.bfa681a8.chunk.js.map",
+    "static/js/3.d55cdc25.chunk.js": "/angular-issues/static/js/3.d55cdc25.chunk.js",
+    "static/js/3.d55cdc25.chunk.js.map": "/angular-issues/static/js/3.d55cdc25.chunk.js.map",
+    "index.html": "/angular-issues/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/angular-issues/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.bab0b925.chunk.css.map": "/angular-issues/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.bfa681a8.chunk.js.LICENSE.txt": "/angular-issues/static/js/2.bfa681a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5113525e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.bfa681a8.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.cab83cf2.chunk.js"
+  ]
+}
