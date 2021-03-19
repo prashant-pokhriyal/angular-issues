@@ -8,6 +8,9 @@ export default function IssuesContainer(props) {
     const [loading, setLoading] = useState(true);
     const [perPage, setPerPage] = useState(10);
     const [searchOpenIssues, toggleSearchOpenIssues] = useState(false);
+    const [startPageIndex, setStartPageIndex] = useState(1);
+
+    const skipPages = (skip) => setStartPageIndex(startPageIndex + skip);
     const handlePageChange = page => setPage(page);
     const handleSearch = () => toggleSearchOpenIssues(!searchOpenIssues);
 
@@ -34,6 +37,8 @@ export default function IssuesContainer(props) {
                             issues={issues}
                             currentPage={page}
                             onPageChange={handlePageChange}
+                            skipPages={skipPages}
+                            startPageIndex={startPageIndex}
                             perPage={perPage} />
                 }
             </Tab>
